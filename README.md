@@ -1,1 +1,1 @@
-# magento-core
+# under development
